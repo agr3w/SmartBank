@@ -6,7 +6,7 @@ Projeto de React sobre styled components
 | -------------  | --- |
 | :sparkles: Nome        | **SmartBank**
 | :label: Tecnologias | React
-| :rocket: URL         | smart-bank-ruby.vercel.app
+| :rocket: URL         | [smart-bank-ruby.vercel.app](https://smart-bank-ruby.vercel.app/)
 | :fire: Curso     | React: abstraindo seu CSS com Styled Components
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
